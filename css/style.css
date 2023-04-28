@@ -140,3 +140,22 @@ img {
     }
  }
 
+ 
+ @media screen and (max-width:480px) {
+    .container{
+        width: 100%;
+    }
+
+    .row{
+        margin: 0 auto;
+        flex-direction: column;
+    }
+
+    .card{
+        width: 420px;
+    }
+
+    h1{
+        width: 100%;
+    }
+ }
