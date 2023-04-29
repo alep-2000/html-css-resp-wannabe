@@ -155,7 +155,20 @@ img {
         width: 420px;
     }
 
+    img{
+        max-width: 400px;
+        margin-bottom: 40px;
+    }
+
+    .col-right li{
+        width: 400px;
+    }
+
     h1{
-        width: 100%;
+        font-size: 3.4rem;
+    }
+
+    h2{
+        font-size: 2.5rem;
     }
  }
